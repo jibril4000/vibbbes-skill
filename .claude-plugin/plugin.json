@@ -1,0 +1,21 @@
+{
+  "name": "vibbbes",
+  "version": "1.0.0",
+  "description": "Generate production-ready design systems with 85+ components from text, URLs, or screenshots. Teaches your AI agent to use the Vibbbes MCP tools effectively.",
+  "author": {
+    "name": "Vibbbes",
+    "url": "https://www.designwithvibbbes.com"
+  },
+  "homepage": "https://www.designwithvibbbes.com/docs",
+  "repository": "https://github.com/jibril4000/vibbbes-skill",
+  "license": "MIT",
+  "keywords": [
+    "design-system",
+    "mcp",
+    "ai-design",
+    "design-tokens",
+    "component-library",
+    "ui-generation",
+    "vibbbes"
+  ]
+}
