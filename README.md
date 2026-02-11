@@ -1,3 +1,20 @@
+```
+██╗   ██╗██╗██████╗ ██████╗ ██████╗ ███████╗███████╗
+██║   ██║██║██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝
+██║   ██║██║██████╔╝██████╔╝██████╔╝█████╗  ███████╗
+╚██╗ ██╔╝██║██╔══██╗██╔══██╗██╔══██╗██╔══╝  ╚════██║
+ ╚████╔╝ ██║██████╔╝██████╔╝██████╔╝███████╗███████║
+  ╚═══╝  ╚═╝╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
+```
+
+### [designwithvibbbes.com](https://www.designwithvibbbes.com) — Generate Design Systems Instantly with AI
+
+Generate production-ready design systems instantly from the command line or any AI coding tool.
+
+Describe what you want, paste a URL, or drop a screenshot — Vibbbes generates a complete design system with 85+ components, tokens, and patterns.
+
+---
+
 # Vibbbes Skill for Claude Code
 
 Teach your AI coding agent to generate production-ready design systems with 85+ components — from text prompts, website URLs, or screenshots.
